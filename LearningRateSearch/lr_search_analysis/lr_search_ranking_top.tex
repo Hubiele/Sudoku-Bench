@@ -1,0 +1,19 @@
+\begin{table}[H]
+\centering
+\caption{Top learning-rate search configurations ranked by lowest validation loss.}
+\label{tab:lr-search-ranking}
+\begin{tabular}{@{}r l r r r r r@{}}
+\toprule
+\textbf{Rank} & \textbf{Run} & \textbf{LR} & \textbf{Warmup} & \textbf{Best loss} & \textbf{Best step} & \textbf{Final loss} \\
+\midrule
+1 & \texttt{warmup\_short} & 3e-04 & 1000 & 0.4667 & 99600 & 0.4741 \\
+2 & \texttt{wd\_high} & 3e-04 & 10000 & 0.4699 & 99500 & 0.4767 \\
+3 & \texttt{clip\_tighter} & 3e-04 & 10000 & 0.4700 & 93700 & 0.4725 \\
+4 & \texttt{warmup\_medium} & 3e-04 & 5000 & 0.4717 & 97000 & 0.4783 \\
+5 & \texttt{lr\_mid\_low} & 2e-04 & 5000 & 0.4720 & 98900 & 0.4747 \\
+6 & \texttt{end\_low} & 3e-04 & 10000 & 0.4727 & 99600 & 0.4731 \\
+7 & \texttt{clip\_looser} & 3e-04 & 10000 & 0.4729 & 96000 & 0.4787 \\
+8 & \texttt{wd\_none} & 3e-04 & 10000 & 0.4730 & 97800 & 0.4762 \\
+\bottomrule
+\end{tabular}
+\end{table}

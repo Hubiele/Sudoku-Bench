@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_JordanOliver_a933bdafd58f730a6f802eacbfd8c3ff",
+  "sudokupad_url": "https://sudokupad.app/iu485cwmo3",
+  "author": "Jordan Oliver",
+  "title": "Prime Killer Snack",
+  "rules": "\"Each row and column contains the digits 1-4 once each. Digits in a cage sum to a prime number but no two cages sum to the same prime. Digits in a cage MAY repeat.\"",
+  "initial_board": "................",
+  "solution": "4213132424313142",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[{\"type\": \"cage\", \"style\": \"killer\", \"cells\": [\"r1c2\", \"r1c3\", \"r2c3\"], \"value\": \"\"}, {\"type\": \"cage\", \"style\": \"killer\", \"cells\": [\"r1c4\", \"r2c4\", \"r3c3\", \"r3c4\", \"r4c3\", \"r4c4\"], \"value\": \"\"}, {\"type\": \"cage\", \"style\": \"killer\", \"cells\": [\"r2c2\", \"r3c2\", \"r4c1\", \"r4c2\"], \"value\": \"\"}, {\"type\": \"cage\", \"style\": \"killer\", \"cells\": [\"r1c1\", \"r2c1\", \"r3c1\"], \"value\": \"\"}]",
+  "encoded_puzzle": "sclN4IglgJiBcIM4A84FsD6ApA9gJwgQwDsB5AGzADcBTbVPATgGYGAjfAMwgFYAONgdgYAGPADY23QQCZKeAMbMO3WQzZsQAGhDJKAFzz49MUHEwBXbLMowQAZVMRMAa1MACALJ5H1F+UlSALAB0gkGSDAC0bAx0EIJ8shogOmA6JFawAArYYNouANJgJGnYLjYEco6JeKY6ABY41li4hC6kFNSJ2KZpcNYAonK1LtiYAO4uhBAuspgkpsgE05gEemAEcC51lC4QYADmKRsAjOH+LsuWLjKytYEuACL7hy5rE9N4e9tw85uYbwAO2VyBHmzG8zBqLgIfx0oz+sg+lA232Qv02tS+eFygJylDujwOOg2rzw70+7gAggBNYaUf4yHSBRImObJZbWfySI4MbmSTn+Hk8zkgAC+mgRn160AA2qBLEUpdLpYJ1EcALrqZXqSQa6VHbVqjUgUwEMAAR1M6R0XUoYrllAVMCVKoYuv1rs1kgNnvUHulDG9/t9hs0JvNlpg1stdpA8pIir1qt1XvVmoDgl1AfVRrDFqtNpjcYTKozmv1pelXozOdNecjBaNcZsYAAXulOCrYw7407ZXb++pgCLdUPBwOhyPx/3J2PZxOjdhKAdloq1SKgA"
+}

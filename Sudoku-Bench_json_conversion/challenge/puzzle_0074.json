@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "fpuzzle83602cf04fa75ca2f53f639e762062b6",
+  "sudokupad_url": "https://sudokupad.app/dx20yzi1cv",
+  "author": "Migu",
+  "title": "4x4 Euler Thermo Sudoku",
+  "rules": "\"4x4 Euler Sudoku rules apply: Place the digits 1-4 and 4 different colors exactly once in each row, column, and box such that each cell has a digit and a color. Every digit/color combination must appear exactly once.\\nDigits along thermometers increase from the bulb end. The digit in the gray circle is odd.\"",
+  "initial_board": "................",
+  "solution": "3241413214232314",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[{\"type\": \"lines\", \"coords\": [\"r1c2\", \"r2c3\"], \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"thickness\": 21}, {\"type\": \"lines\", \"coords\": [\"r2c2\", \"r3c3\"], \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"thickness\": 21}, {\"type\": \"underlays\", \"coords\": [\"r1c2\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"border_color_name\": \"lightgray\", \"border_color_hex\": \"#CFCFCF\", \"size\": \"large\", \"text\": \"\", \"width\": 0.85, \"height\": 0.85}, {\"type\": \"underlays\", \"coords\": [\"r2c2\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"border_color_name\": \"lightgray\", \"border_color_hex\": \"#CFCFCF\", \"size\": \"large\", \"text\": \"\", \"width\": 0.85, \"height\": 0.85}, {\"type\": \"underlays\", \"coords\": [\"r3c4\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"border_color_name\": \"lightgray\", \"border_color_hex\": \"#CFCFCF\", \"size\": \"medium\", \"text\": \"\", \"width\": 0.7, \"height\": 0.7}]",
+  "encoded_puzzle": "fpuzN4IgzglgXgpiBcAWANCALhNAbO8SIA9EACAUQFccAnYgFQAsYqBbAe2IGVyATVga3IhUAQ3Jp6rKghABZCAHNBqKpRhgYaaYRIVqnHv3LEVOMMWEAHC1gCe8YgAUswgMYxi499wWYzARgBaEmEAO25iEm8AMyimGBC0YhdWLEkzGAJXbBtiVhC3YggQ4hhXemNWAHdkJJTyZhCa0PCAI1YCYjByF3LxYUTSnqSYLCxiemEzYWJveUxzMPNa1KoAOjIANyYc2cwAemSV2uYWov6IPOJmcjBEywtSmgys21z8mFWAHRCAER80KapELyDyMFisZgaJhmIouKildTEKJUCGg9wtSgtEphdYMLz/QrFTzEeRUYQ5FwQKguHCFMysbjcVZCECkiDcBAAbU5wAAvsg+QL+XyALrIHnCyVCsUSoVy0XiwVKyUisUgBkc+A8kBuUbSABKAGYAMKIEC8tWecGQtBMLmgLBFNRczkgfV+Y0AJhZ+s9xsNIFVwpAjpCzq1rt9Xp9JoDQbVYDqGDyXMNyE9yBQfkzyGzaYz2ZQGfzyDThZFvKAA=="
+}

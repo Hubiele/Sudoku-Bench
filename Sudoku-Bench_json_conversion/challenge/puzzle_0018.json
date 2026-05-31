@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "nhk1911h2",
+  "sudokupad_url": "https://sudokupad.app/x8ecyupb7a",
+  "author": "Nikoli",
+  "title": "Nikoli nhk1911h2",
+  "rules": "\"Normal 9x9 sudoku rules apply.\"",
+  "initial_board": "4..7...2...8...3...6..59..7..43...9.5...8...3.3...14..6..19..7...5...6...7...2..1",
+  "solution": "451738926798216354362459187184367295526984713937521468643195872215873649879642531",
+  "rows": 9,
+  "cols": 9,
+  "visual_elements": "[]",
+  "encoded_puzzle": "sclN4SwJgXA5AdgFgawIwE4lLgJigGgLYCmALgIZgmkTAkCuRcA9gE7QByICDANiLkzVwIBnNszwkuAAhQAPFJKE0wDBDUn9BQySQAOOrgE8AdLiHc6IBjGgAWAKxIA7AGYAHCkwA2RyleYkns52Ns6emPZoro5IriHemCh2dl6+NtHOKM6OyUg2nq6eIah2UZj+JS6Fvj6FmHbOSLhEbBzcIJLwyGgY2AC+OADGInYADIMEEADak8AAbhA2/Tg4cxCOS8urmP0AujiTm/OuGyvzzkt7B6ueG6t2/asot/Prl4cLD2cnj7v7d99HAEQc5vVbnZbvJCfD7LS7XZ4QKGnCBPCGrdY4N7I+4Q5E3WH7ZEYtHzbYkxG9HZ7JgTaaTMYjS5jJBMnCYS5IHCM/aclk8tmXTBcwU4PmTIXsy70nDOVk2Vl2DkypXy/mK/ZC2UanCq8U4RVSsaeVmOVmuJXG/mm/nm7WWvXWvXmqXOYX7V1i13s/Y2N2TX1i33eyZ2P2hsWhyX7SaurUxnWXV3q/3Kn0JtPJ0Nx0O60MG6Ou+2ux2u20p+2+x2+suh+2hx2h53Rzx+ltilvBxx+rtirvB1x+gdigdR6YtuMt3Ut5NduNd3Vd5MDuMD3UD/NjnD2luOltlrv2ruOrtlgf2geOgfOna9IA==="
+}

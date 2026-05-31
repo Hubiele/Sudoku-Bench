@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_JamesKopp_663a5d92442985f6bce55f6da3b7c58c",
+  "sudokupad_url": "https://sudokupad.app/zjmj4xdgw5",
+  "author": "James Kopp",
+  "title": "Out of the Blue",
+  "rules": "\"Normal 6 x 6 sudoku rules apply.\\nAll digits along a blue line must sum to the same total in each 2x3 box the line visits.\"",
+  "initial_board": "....................................",
+  "solution": "351264642513526341413625165432234156",
+  "rows": 6,
+  "cols": 6,
+  "visual_elements": "[{\"type\": \"lines\", \"coords\": [\"r1c4\", \"r2c5\", \"r3c6\", \"r4c5\"], \"color_name\": \"deepskyblue\", \"color_hex\": \"#2ecbffff\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r3c1\", \"r2c2\", \"r1c3\", \"r2c4\"], \"color_name\": \"deepskyblue\", \"color_hex\": \"#2ecbffff\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r3c2\", \"r4c2\", \"r4c3\", \"r4c4\"], \"color_name\": \"deepskyblue\", \"color_hex\": \"#2ecbffff\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r4c6\", \"r5c6\", \"r5c5\"], \"color_name\": \"deepskyblue\", \"color_hex\": \"#2ecbffff\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r4c1\", \"r5c1\", \"r6c2\"], \"color_name\": \"deepskyblue\", \"color_hex\": \"#2ecbffff\", \"thickness\": 10}]",
+  "encoded_puzzle": "sclN4IglgJiBcIM4A84FsD6ApAhsgpnA0gPYAOxqAbOQMyYCsEAnAEwAsLTDAHLQGbkBGAYxy1e5CJir8A7INqdBIADQhcAF0wSNMUHEIBXAE7CYIAMr6IhANb6ABAFlM1nIbsA3JgAZWAOi8svkxUALQ8VAwQXrLKIGpgagA2OKYA8vpqdoQ8dmoAFjh2AEKJ+ikqmBl5hIamWLhwdkSksYb6yXCmAHI1yJiJduR2CIN2cJY29m0ddpikiQCevgA6AHYAgokDEGAA5gmN/YSru7N2/KWFiWCrhcj6cJnjyLmEuQVj2IVqhBoDN3YcJhBHk7EwEFRzoQRvkrjdCu4wHADr5YnpSvFjqYqLQAIxMcgsQlMPE4glUFi4ylUcgk3HkWgsKhMYKU2jkEAAXxUgkwuzwMAA2gBdHk4LZmMAALxS0FoXjFW060EFguA3PVSk12o1nNFat1WsNOv1OqN5pNSgNFuNutNtptRvtjrN6uFopAhhw+2OytVgoVXn1CtxwaUTH1uKUQatUdDsfD7qtAaUVDDLDDtEjqezGYTWf1gqY0f1xfjRcTVqoJarSnL1YjheLaatxbzFaztZbgur7erBeTLBrgqH5aHEattGHU/LU8bg5zVqH7aHncFU+7U/bU4LHuutz9oAA7pgFgAFQg3NR+gO+Dd30t3pS0B9Vp+BAcgQSERI1UwAYiYHBBH4HgwJ4WJ8jAQRrAPZVcS8DUQBPc9L1Wa8hSLJ8vFfW851w3EnyoB8PW/X9algQDgNA8DILyaDYLweDEK1ZDTwvK8byYJ9CLXYiZ1w/jUxInkfz/SigJA8CIJUKCYLgmAEKQlCOPQm8hJfNcP2fXDtI/JMvzEiiQCoqTaNk+j5KYxSWOPdi0IwlUe2w3SXLXTS6xEwzyIAySaLAuiGIU6AlOFTkgA=="
+}

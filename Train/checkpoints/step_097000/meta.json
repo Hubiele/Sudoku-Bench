@@ -1,0 +1,14 @@
+{
+  "step": 97000,
+  "config": {
+    "MAX_NCA_STEPS": 32,
+    "VALIDATION_NCA_STEPS": 128,
+    "ITERATIONS": 100000,
+    "POOL_REFRESH_EVERY": 1,
+    "VALIDATE_EVERY": 100,
+    "POOL_SIZE": 256,
+    "VALIDATION_SIZE": 256,
+    "TRAIN_SPLIT_MODE": "memmap",
+    "VALIDATION_SPLIT_MODE": "ram"
+  }
+}

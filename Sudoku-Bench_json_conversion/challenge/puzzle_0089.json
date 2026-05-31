@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_KennetsDad_fde30ebd3029c3b874eedb77d3e22a0c",
+  "sudokupad_url": "https://sudokupad.app/rg6qm540gr",
+  "author": "Kennet's Dad",
+  "title": "Sumthings",
+  "rules": "\"Place the digits 1-6, once each, in every row, column, and region. Region borders divide the blue line into segments with the same sum.\"",
+  "initial_board": "....................................",
+  "solution": "421356543621236514615243354162162435",
+  "rows": 6,
+  "cols": 6,
+  "visual_elements": "[{\"type\": \"cage\", \"style\": \"box\", \"cells\": [\"r1c1\", \"r2c1\", \"r3c1\", \"r3c2\", \"r4c1\", \"r4c2\"], \"value\": \"\"}, {\"type\": \"cage\", \"style\": \"box\", \"cells\": [\"r1c2\", \"r1c3\", \"r2c2\", \"r2c3\", \"r3c3\", \"r4c3\"], \"value\": \"\"}, {\"type\": \"cage\", \"style\": \"box\", \"cells\": [\"r1c4\", \"r1c5\", \"r2c5\", \"r3c5\", \"r4c5\", \"r5c5\"], \"value\": \"\"}, {\"type\": \"cage\", \"style\": \"box\", \"cells\": [\"r2c4\", \"r3c4\", \"r4c4\", \"r5c4\", \"r6c4\", \"r6c5\"], \"value\": \"\"}, {\"type\": \"cage\", \"style\": \"box\", \"cells\": [\"r1c6\", \"r2c6\", \"r3c6\", \"r4c6\", \"r5c6\", \"r6c6\"], \"value\": \"\"}, {\"type\": \"lines\", \"coords\": [\"r1c4\", \"r1c3\", \"r1c2\"], \"color_name\": \"deepskyblue\", \"color_hex\": \"#2ecbffff\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r3c4\", \"r2c4\", \"r3c3\", \"r4c3\", \"r3c2\", \"r4c2\", \"r3c1\", \"r2c1\"], \"color_name\": \"deepskyblue\", \"color_hex\": \"#2ecbffff\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r6c6\", \"r5c6\", \"r4c6\", \"r4c5\", \"r5c5\", \"r4c4\", \"r5c4\", \"r6c5\", \"r6c4\", \"r5c3\", \"r6c2\"], \"color_name\": \"deepskyblue\", \"color_hex\": \"#2ecbffff\", \"thickness\": 10}]",
+  "encoded_puzzle": "sclN4IglgJiBcIM4A84FsD6BpApgO25gLnACICGEqAZhJgMwAMmARhPQEwCcAxjYwBwDsAFkyYIjfvxaZWrEnU4gANCGQEyJfCRig4AewCuAJ06YYIAMr6IugNb6ABAFkSNzIfsA3VnVaCAdHS8fgCMvAC0AGz8JBEArLy8SiD4YPgANqawlsj4ABZg2ADmcEkk+nm6hmZYuAQA5HD2pFDKhvoZJbAACmkkJvZ5mPYQYIWpjcGRiva62P2YfbnTBfaYHm4AnvaGugDu05y6afrI2NMk2BDbmGOzfvYASjdgs/aMldSGjSMekEODb2OQzSBSGBXwunscBuqmwhHsu1SuQGuSGcBIqihJz8ST0xxSszMglYwRosTighoERJrCpsWCggiwVivhoZMEwWpnNZsRAAF9lJwSIVMJ0ANoAXUFmDSaXMYAAXplYnRpbLxWLgAKtYodXrtXypZqDbqTfqjfrTVbzYpjdazQaLQ77aanS7LVqJVKQIZnrMNWLVXQjcFFMHbaww0bI8EjTQo7b47GjYHFLHbarWCG09msxHFHmxfGsynVTQjarBNmq/ma0XFHXBA2vbaxaHy/mO/Wu02u7FFH3mymm+GxU302OC0b+6P+xP+yXW6rYtmV/m1/WN02N/2Vy2QCC8OLQLsSBsurpwRq6H5+zRbxXb2mH97DmlKmYAMSsTCcRgUACKCSPIwE4Gwj06YI6G1EBT3PS84Q1Vgn3vDdghQh8IyfZCN1QgtMLFHDn1wp90I3IibzQp9KP3N8P1gb9f3/QDgPyMCIJgKCYLgi8rxgMUxViJ8hJI3cCLw/wtyfSS4wwqS7wIkSG0UuSjUk/Cd1Il9BSOeiQEYv9AKA5QQPY0VIOgiU+SAA"
+}

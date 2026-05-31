@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_MichaelLefkowitz_8d607a9cd510c988a3a7a7409cab75af",
+  "sudokupad_url": "https://sudokupad.app/ydxblsaf0f",
+  "author": "Michael Lefkowitz",
+  "title": "Clear Skies",
+  "rules": "\"Normal 4x4 Sudoku rules apply.\\n\\nSUNBURN - A digit on a sun indicates how many surrounding cells (i.e. orthogonally or diagonally adjacent cells) contain smaller digits.\"",
+  "initial_board": "................",
+  "solution": "3421124323144132",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[{\"type\": \"underlays\", \"coords\": [\"r2c2\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"\", \"color_hex\": \"\", \"border_color_name\": \"\", \"border_color_hex\": \"\", \"size\": \"unknown\", \"text\": \"\\u2600\\ufe0f\", \"width\": 0, \"height\": 1.05}, {\"type\": \"underlays\", \"coords\": [\"r2c4\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"\", \"color_hex\": \"\", \"border_color_name\": \"\", \"border_color_hex\": \"\", \"size\": \"unknown\", \"text\": \"\\u2600\\ufe0f\", \"width\": 0, \"height\": 1.05}, {\"type\": \"underlays\", \"coords\": [\"r3c4\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"\", \"color_hex\": \"\", \"border_color_name\": \"\", \"border_color_hex\": \"\", \"size\": \"unknown\", \"text\": \"\\u2600\\ufe0f\", \"width\": 0, \"height\": 1.05}]",
+  "encoded_puzzle": "sclN4IglgJiBcIM4A84FsD6BZMBjAFgQwFMAbAGQIDMBrAewHcwAXAL1QA4IA2ABgHY8BOLBACsARi5Z+rVngDMePjwAsXQXgBGPYXnIgANCGQEGeCHhMxQcagFcATlgIwQAZRsRqlGwAJ0eSgR23gBuAExcoUoAdFwcUeIAtOqihLKsTgYMjEROsADCOXhBLpRgBHD6IHg2DDjUds6YuIRE3mRUdIxMlXY2ORWwAHL1yHitSghK3m4eXt69/d54AA7LRACeUQA6AHa7LgCqgwBCBwBKg94J3gCC3hBgAOaM3tQ7S95wNu9gOw9Y5nK3jqtG8ox260+9jstj+v0e3kcRCIcG8AAowFECFFXnZatRHm8xhtcfcwHhCTtiZDTAArPCOHYMRHEFEASkRbxMv0+o2RgTJzwYcCilWsRBqYDezlkSlColEkVkoVkoiUSlEypAAF8DADHuUYABtAC6etZLjATFywi45uRAyNRuAupdejdLrNztdPvd2q9Ht9nr03r9Yc9ZpAdgIzzejqddq4Xrtoi9oj0SZD6dTXqNdtCyb0sjTegLWaLJtzoQzXurqZDshrDb0OZDRurZfbFebncbxcrBm+EECRDw60doEZDECxtEUWELfnkfoEFqMDtIBwBCeOAYMDnXAX8AYMICzgAxOQr9fKtOEHvYIAAMkA8H+Vchcy3WmCyDh66hEeoLy4YCQMqPAdkeHJ1wMGEhwIKBoBPGwCFdEApxnaAjTnBdZCXAwVzXaANy3HcHwPI84BPTxchAS9ryvW8CHvZwXzfD8rVyH8/wAhpYHPEDQIMcDINyDdYL+eCYCQlD3TQggmQw9t5yLPCQAInBoM3bdHl3fcYgoqizz4+iGMyJiHxAViDHfJlP04380P/QC+IE4CwIgqCiJg2FhwQ6T/W1IA="
+}

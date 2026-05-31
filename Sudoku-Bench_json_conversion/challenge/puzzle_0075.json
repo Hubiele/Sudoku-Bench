@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_MichaelLefkowitz_1b4c5d28db5234255eefb090a2e3d349",
+  "sudokupad_url": "https://sudokupad.app/bbiusybpg3",
+  "author": "Michael Lefkowitz",
+  "title": "Introduction to Anti-Knight",
+  "rules": "\"SUDOKU\\n- Fill the grid with the digits 1-4 so that no digit repeats in a row, column, or box.\\n\\nANTIKNIGHT\\n- If two cells are a knight's move apart (i.e. two steps horizontally and one step vertically, or vice versa), then they cannot have the same digit.\\n\\nPARTIAL KROPKI\\n- A white dot between two cells requires that the value in one cell is exactly 1 greater than the value of the other cell.\\n- A black dot between two cells requires that the value in one cell is exactly double the value of the other cell.\"",
+  "initial_board": "3...............",
+  "solution": "3421124321344312",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[{\"type\": \"overlays\", \"coords\": [\"r1c3\", \"r1c4\"], \"loc\": \"vertical edge\", \"shape\": \"circle\", \"color_name\": \"white\", \"color_hex\": \"#FFFFFF\", \"border_color_name\": \"black\", \"border_color_hex\": \"#000000\", \"size\": \"small\", \"text\": \"\", \"width\": 0.34, \"height\": 0.34}, {\"type\": \"overlays\", \"coords\": [\"r3c1\", \"r4c1\"], \"loc\": \"horizontal edge\", \"shape\": \"circle\", \"color_name\": \"black\", \"color_hex\": \"#000000\", \"border_color_name\": \"\", \"border_color_hex\": \"\", \"size\": \"small\", \"text\": \"\", \"width\": 0.34, \"height\": 0.34}]",
+  "encoded_puzzle": "sclN4SwJgXA5AzgHjAtgfQLIgMYAsCGBTAGwBk8AzAawHsB3EAFwC9kBGAIwBYMBWMAJgA4wrLrwDM7Xly54yrAAwBOOTl55RYcQqgAaDDggBtYADdodegTwQABAEkAdnQBOlMAFcM5yvet1K1gEFHEABaAGl7EABzLDooAF9tE2gcNzosSicbdGx8AmsSChp6BgSk0ygnN0sYGwBlAFUAEQB5MIaAHXsQ6wAxEAJ89LxrKKdwa1p03ywRsGj6GGtmEPZrGH90nDpre395qPprJzwABzxtpZAfHGOabWsMSgI3RHsHzOtWSjgAOi6ugEAHIAFVsYSBtgA4gAJEFdHq2Ui+aj+DCEAhLHAnay3ciRGJ0DqwayISjGEY4U7YnYAChAvzwvxR/hgdDOSwy4wY3joOEGAE9cfYwNZvCM2WdrBSnOY9IKPk5pZgRjKYDgAJQPYY+YZCvT2PY7XAUmYSnCIOYLOj/exdAAKAQASmCAkRrGEnS17WFbAjApMsPQ5pQdqw8HRqDJdajHhilicAI5uEAnJZbHbDaX8twja5i+wjdGDawgJZ4OA4TwEIXMUYnbZ4JVbXWzbMvEaUZFZ0OzJXFgi2noBL4EKvkaxgUNfCNRvAxtHx454ZOpvDp3CZtvGHN5nziuMlsvWCtVug1yeUNysSxm9u5sXdtu9puHwdlZKwZ5pEDeGziXhmGYXh2FEQDxFA4CEgAXV0WouDkXQrAMIxTFERJtG0WCDEwrDtBwzDsNw6DYJOQwUMQuRsMQ5hsOYbQqPw+jaOwgxEN4ajtFEOjtA4piuJI/CDF4BjsJE2j8NEUTJO0FihJEvjhIEmTFKk7jBMoQxgDZFxyCsKA9kLHRPEMORfi4ZTqAgMzxG0LBrN+Wz0ggej2WgYzoAAYjkHydCyOhdF4CBPN6XRmGCuREm05xKD06BDLwYy6EMKSzK4WCrJs9g7Icpz9I8qBPNIYq/IgAKMCC7z4mg+IgA=="
+}

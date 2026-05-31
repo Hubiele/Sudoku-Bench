@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_SujoykuandMartySears_d7635138763996b4af8378b8ae923c8f",
+  "sudokupad_url": "https://sudokupad.app/6bxd0ipaky",
+  "author": "Sujoyku and Marty Sears",
+  "title": "Differences Count - part 1",
+  "rules": "\"Normal 4x4 sudoku rules apply.\\nDigits separated by a black dot are in a 1:2 ratio.\\nThe difference between two adjacent digits on a coloured line indicates exactly how many pairs of adjacent digits along that line have that exact difference.\"",
+  "initial_board": "................",
+  "solution": "1342241331244231",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[{\"type\": \"lines\", \"coords\": [\"r3c1\", \"r3c2\", \"r4c3\"], \"color_name\": \"palegreen\", \"color_hex\": \"#b7f68cff\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r2c2\", \"r2c3\", \"r3c4\", \"r4c4\"], \"color_name\": \"plum\", \"color_hex\": \"#dfb1f4ff\", \"thickness\": 10}, {\"type\": \"overlays\", \"coords\": [\"r4c1\", \"r4c2\"], \"loc\": \"vertical edge\", \"shape\": \"circle\", \"color_name\": \"black\", \"color_hex\": \"#000000\", \"border_color_name\": \"\", \"border_color_hex\": \"\", \"size\": \"small\", \"text\": \"\", \"width\": 0.34, \"height\": 0.34}]",
+  "encoded_puzzle": "sclN4IglgJiBcIM4A84FsD6BlArgKwPYE8BrTAQwDsIBZEgJwBd90BTWuVCAdgDYBmAVgCMPABzceATnFcARgBYSAM2E8Ow6cJJNxAJh4BjYQpAAaEMiZ0SEEpZig4uTDT1MYILBFzEABNUJMabwA3bQAGbVkAOlDhSIFhAFouDhIuPmFhExA6MDoAG1dYABEwBQUApjIXOG8AYUcyOm8E7wAHWiaBLJJMOgALXBo3LDwiTG9yCF8O/G9mViyaTAK4NwA5QeQSPO9ZBFlvOExPHyWVidbWvPxIgB0yEoBzXJq4JnaaGyYp6VmSb2keRIekI3k8TVoTG8YDIE28Amg2m8nxyuDuZAAKn0oRBSuUaJUXACLAB3JiVbx0Em4CYQbDAypNXHPOg1XCw/56XB5RwEqZ5GFQmG4vRfGpMBDA/KzAYk7xbMizdpgGhshS0+kuRpgsAsmrbdmPSl9GzeAVkKEmoJQ/qmiVSnVlCpVJiRLLIOCPLk0Al6OhuepkR4o5Y2MDsuAAQm8AE1HN4rVCucgrhZvm0OvDIrH46LYWRcHLkLhrd52XQaQBtD5NbQAXQAFH06HRWnBoAB6DtHE6YdoQSIkS4dvo8OCyVmERV5ACUWQceV64bIbiEsm0ESEPAEEXX25AAF9TKLHkxVtBK3Xj0w8nl0GAAF6FPiha+38+VyvAI/f4y/79Xl+P7AX+B6Af+IEAcYQGgbBAFXiABLPBGMCfpWr6hIBr4CIBAjGJh0F4ThgHocY9bQa+PC4WR1FUSR2j4YBDE4dBPCMaxxjEdBlYMeRPHGFRHF8WxdEIeaZ6oaAJIkPgAAKuAwqyqE8ZEfD4apTGqZxGmsVp2gaQhXI8kMsAAMTSBwChcMIehlFk/RgCCFpwOeAihD+IDSXJCmNB+lYCFpAV8Lhek6Spak8GFkURQZx7coMbimRACjSAICiyHZpgOU5Z6ue5CElgEQL4B+oBanQASodFnEISSkD9DAoSRDwsimNiurNo1zWtfAdA0F4hQgAWFr2RK/qwFkRkJWZABic3zYsDQQN8MB9ZgTCmNIwKEMGS31MZiWhEdx2HnWB5AA==="
+}

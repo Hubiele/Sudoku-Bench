@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_MichaelLefkowitz_4e4d663bc8bd4f6a014b4432152e4d99",
+  "sudokupad_url": "https://sudokupad.app/u1gswfvw2x",
+  "author": "Michael Lefkowitz",
+  "title": "Introduction to Killer Sudoku",
+  "rules": "\"SUDOKU\\n- Fill the grid with the digits 1-4 so that no digit repeats in a row, column, or box.\\n\\nKILLER\\n- Digits in cages sum to the number in the corner of the cage.\\n- Digits cannot repeat within a cage.\\n\\nLITTLE KILLER\\n- Digits along the diagonal indicated by an arrow sum to the number by the arrow.\"",
+  "initial_board": "................",
+  "solution": "3214142323414132",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[{\"type\": \"cage\", \"style\": \"killer\", \"cells\": [\"r1c1\", \"r1c2\"], \"value\": 5}, {\"type\": \"cage\", \"style\": \"killer\", \"cells\": [\"r2c1\", \"r2c2\", \"r3c2\"], \"value\": 8}, {\"type\": \"cage\", \"style\": \"killer\", \"cells\": [\"r2c4\", \"r3c4\"], \"value\": 4}, {\"type\": \"diagonal arrow\", \"coords\": [\"r1c5\"], \"direction\": \"lower left\", \"color_name\": \"black\", \"color_hex\": \"#000000\", \"thickness\": 3}, {\"type\": \"overlays\", \"coords\": [\"r1c5\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"\", \"color_hex\": \"\", \"border_color_name\": \"\", \"border_color_hex\": \"\", \"size\": \"large\", \"text\": 8, \"width\": 1, \"height\": 1}]",
+  "encoded_puzzle": "sclN4SwJgXA5AzgHjAtgfQLIgMYAsCGBTAGwBk8AzAawHsB3EAFwC9kAWPZsANg4GYAjDABy8wzUhxwAGAIzNezZtwBMUgKyK2YAJyaoAGgw4IAbWAA3aHXoE8EAAQBJAHZ0ATpTABXDJcqPbdSlsAaRACaxdbAGUPMEpyDygAX10zaBwPOixKFzt0bHwCWxIKGnoGJJTzKBcPaxg7SIBVABEAeSDGgB1HAFpbADFQwsy8WwBzF3BbWkz/LFGwEDH6GFspHuZbGEDMnDpbR0DF5f2XPAAHPD3VkD8cWzdqXVsMSgIPREdn7NteSjgAHTdbpBexEIgAUQASt0+s0litbLcXjgxnhVjAPv4dvMDh9eHgIsiRi9so5CbZKKQ5qMDGigb1bPCTqsDI5DqcLld9jMsMj7nS8AzukR7AAVMWQ4JgyEwxnMxE4Ai+MY02yLVG+JVIxyLAx0PBgX4AT1sODuLkeWyxATVjnxFN4ppJOEtNABFVSsDeGRAvjsShkMkUSm4zCDSk9HkcIAAjh4bHR9DYjEYJLoJABdXRp3RSTPZ8wqZLAaNxhMQJMYFNGKQZ7O1vMNxRNwsQAQlsvxxPJ4yN7jN3QDtvMRLZjD1FTp6t93Rzhtz3QL+c5xcF3RnPu5rM59P5nN1neN/MN3OKBvpgcH3Tn6/DnNGFtHlv7ozces598nh8t2+PocNu+f7vsO2aUMYwAwK4cQ2FAhzkno3jGBIAIqLozCodm1AQHWWA4boBrtropD1Eo+jQAAxBI1F6DkdBjrohgmNQ5x9ihADsYboQCihcBeAKaGRGESBwAjrlgBAQChUgCORVEEXh3BjokQA=="
+}

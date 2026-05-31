@@ -1,0 +1,132 @@
+{
+  "variant_id": "generated_puzzle_00002",
+  "active_rule_names": [
+    "standard_sudoku_4x4"
+  ],
+  "side": 4,
+  "digits": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "board_offset": [
+    0,
+    0
+  ],
+  "solution": [
+    [
+      1,
+      4,
+      2,
+      3
+    ],
+    [
+      2,
+      3,
+      4,
+      1
+    ],
+    [
+      4,
+      1,
+      3,
+      2
+    ],
+    [
+      3,
+      2,
+      1,
+      4
+    ]
+  ],
+  "givens": [
+    [
+      1,
+      4,
+      0,
+      3
+    ],
+    [
+      2,
+      0,
+      4,
+      0
+    ],
+    [
+      0,
+      1,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "rule_channel_names": [],
+  "rule_planes_9x9": {},
+  "metadata": {
+    "variant_mode": "standard_original_givens",
+    "chosen_rule_set": [],
+    "selected_rule_text": "standard_sudoku | original_givens",
+    "standard_min_count": 4,
+    "selected_min_count": 7,
+    "improvement_vs_standard_min": -3,
+    "original_puzzle": [
+      [
+        1,
+        4,
+        0,
+        3
+      ],
+      [
+        2,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        1,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "minimal_standard_only_subset": [
+      [
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        2,
+        0,
+        4,
+        0
+      ],
+      [
+        0,
+        0,
+        3,
+        0
+      ],
+      [
+        0,
+        0,
+        0,
+        0
+      ]
+    ],
+    "necessity": {}
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "schema_name": "shared_rule_channel_schema_4x4_new_arch_only",
+  "version": 1,
+  "stack_side": 4,
+  "notes": [
+    "Standalone 4x4 schema emitted by dataset_generator.py.",
+    "index_hint is the stack channel used by each rule plane.",
+    "rule_planes_9x9 contains padded 9x9 planes with the 4x4 board embedded at offset (0, 0)."
+  ],
+  "rules": {
+    "standard_sudoku": {
+      "num_channels": 1,
+      "channels": [
+        {
+          "name": "given_mask",
+          "index_hint": 0,
+          "description": "1.0 on givens in the selected puzzle."
+        }
+      ]
+    },
+    "anti_knight": {
+      "num_channels": 1,
+      "channels": [
+        {
+          "name": "anti_knight_active",
+          "index_hint": 1,
+          "description": "Global activation plane for anti-knight."
+        }
+      ]
+    },
+    "counting_circles": {
+      "num_channels": 1,
+      "channels": [
+        {
+          "name": "counting_circles_active",
+          "index_hint": 2,
+          "description": "1.0 on counting circle cells."
+        }
+      ]
+    },
+    "differences_count_lines": {
+      "num_channels": 4,
+      "channels": [
+        {
+          "name": "differences_count_active",
+          "index_hint": 3,
+          "description": "1.0 on cells in a differences-count line."
+        },
+        {
+          "name": "differences_count_progress",
+          "index_hint": 4,
+          "description": "Normalized progress along the line."
+        },
+        {
+          "name": "differences_count_anchor_row",
+          "index_hint": 5,
+          "description": "Normalized row code of the line anchor."
+        },
+        {
+          "name": "differences_count_anchor_col",
+          "index_hint": 6,
+          "description": "Normalized column code of the line anchor."
+        }
+      ]
+    },
+    "even_cells": {
+      "num_channels": 1,
+      "channels": [
+        {
+          "name": "even_cells_active",
+          "index_hint": 7,
+          "description": "1.0 on cells constrained to even digits."
+        }
+      ]
+    },
+    "killer_cages": {
+      "num_channels": 2,
+      "channels": [
+        {
+          "name": "killer_active",
+          "index_hint": 8,
+          "description": "1.0 on killer cage cells."
+        },
+        {
+          "name": "killer_clue_sum",
+          "index_hint": 9,
+          "description": "Cage clue sum repeated on every cage cell."
+        }
+      ]
+    },
+    "little_killer": {
+      "num_channels": 2,
+      "channels": [
+        {
+          "name": "little_killer_progress",
+          "index_hint": 10,
+          "description": "Normalized progress along a little-killer path."
+        },
+        {
+          "name": "little_killer_clue_sum",
+          "index_hint": 11,
+          "description": "Little-killer clue sum repeated on the path."
+        }
+      ]
+    },
+    "mean_baby_snake": {
+      "num_channels": 1,
+      "channels": [
+        {
+          "name": "mean_baby_snake_active",
+          "index_hint": 12,
+          "description": "Global activation plane for Mean Baby Snake."
+        }
+      ]
+    },
+    "odd_cells": {
+      "num_channels": 1,
+      "channels": [
+        {
+          "name": "odd_cells_active",
+          "index_hint": 13,
+          "description": "1.0 on cells constrained to odd digits."
+        }
+      ]
+    },
+    "partial_kropki": {
+      "num_channels": 6,
+      "channels": [
+        {
+          "name": "white_kropki_active",
+          "index_hint": 14,
+          "description": "1.0 on cells touched by a white Kropki dot."
+        },
+        {
+          "name": "white_kropki_anchor_row",
+          "index_hint": 15,
+          "description": "Normalized row code of the white-dot anchor."
+        },
+        {
+          "name": "white_kropki_anchor_col",
+          "index_hint": 16,
+          "description": "Normalized column code of the white-dot anchor."
+        },
+        {
+          "name": "black_kropki_active",
+          "index_hint": 17,
+          "description": "1.0 on cells touched by a black Kropki dot."
+        },
+        {
+          "name": "black_kropki_anchor_row",
+          "index_hint": 18,
+          "description": "Normalized row code of the black-dot anchor."
+        },
+        {
+          "name": "black_kropki_anchor_col",
+          "index_hint": 19,
+          "description": "Normalized column code of the black-dot anchor."
+        }
+      ]
+    },
+    "region_sum_lines": {
+      "num_channels": 4,
+      "channels": [
+        {
+          "name": "region_sum_active",
+          "index_hint": 20,
+          "description": "1.0 on region-sum line cells."
+        },
+        {
+          "name": "region_sum_segment_index",
+          "index_hint": 21,
+          "description": "Normalized segment index inside the line."
+        },
+        {
+          "name": "region_sum_anchor_row",
+          "index_hint": 22,
+          "description": "Normalized row code of the line anchor."
+        },
+        {
+          "name": "region_sum_anchor_col",
+          "index_hint": 23,
+          "description": "Normalized column code of the line anchor."
+        }
+      ]
+    },
+    "renban_lines": {
+      "num_channels": 3,
+      "channels": [
+        {
+          "name": "renban_active",
+          "index_hint": 24,
+          "description": "1.0 on Renban line cells."
+        },
+        {
+          "name": "renban_anchor_row",
+          "index_hint": 25,
+          "description": "Normalized row code of the line anchor."
+        },
+        {
+          "name": "renban_anchor_col",
+          "index_hint": 26,
+          "description": "Normalized column code of the line anchor."
+        }
+      ]
+    },
+    "sunburn_cells": {
+      "num_channels": 1,
+      "channels": [
+        {
+          "name": "sunburn_active",
+          "index_hint": 27,
+          "description": "1.0 on sunburn cells."
+        }
+      ]
+    },
+    "thermometers": {
+      "num_channels": 4,
+      "channels": [
+        {
+          "name": "thermo_active",
+          "index_hint": 28,
+          "description": "1.0 on thermometer cells."
+        },
+        {
+          "name": "thermo_progress",
+          "index_hint": 29,
+          "description": "Normalized progress from bulb to tip."
+        },
+        {
+          "name": "thermo_anchor_row",
+          "index_hint": 30,
+          "description": "Normalized row code of the bulb."
+        },
+        {
+          "name": "thermo_anchor_col",
+          "index_hint": 31,
+          "description": "Normalized column code of the bulb."
+        }
+      ]
+    },
+    "zipper_lines": {
+      "num_channels": 4,
+      "channels": [
+        {
+          "name": "zipper_active",
+          "index_hint": 32,
+          "description": "1.0 on zipper cells."
+        },
+        {
+          "name": "zipper_distance",
+          "index_hint": 33,
+          "description": "Normalized distance from the zipper center."
+        },
+        {
+          "name": "zipper_anchor_row",
+          "index_hint": 34,
+          "description": "Normalized row code of the zipper center."
+        },
+        {
+          "name": "zipper_anchor_col",
+          "index_hint": 35,
+          "description": "Normalized column code of the zipper center."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "f7663Bj2bL",
+  "sudokupad_url": "https://sudokupad.app/f7663Bj2bL",
+  "author": "Blobz",
+  "title": "Pluto (Dwarf Planet)",
+  "rules": "\"Normal sudoku rules apply: Place the digits 1 to 4, once each, in every row, column and box.\\\\n\\\\nRegion Sum Lines: Digits along a blue line have an equal sum N within each 2x2 box the line passes through. Different lines may have different values for N.\"",
+  "initial_board": "................",
+  "solution": "2314413234211243",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[{\"type\": \"lines\", \"coords\": [\"r1c1\", \"r2c2\", \"r3c1\"], \"color_name\": \"mediumturquoise\", \"color_hex\": \"#34BBE6\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r1c3\", \"r2c3\", \"r3c2\"], \"color_name\": \"mediumturquoise\", \"color_hex\": \"#34BBE6\", \"thickness\": 10}, {\"type\": \"lines\", \"coords\": [\"r2c4\", \"r3c3\", \"r4c2\"], \"color_name\": \"mediumturquoise\", \"color_hex\": \"#34BBE6\", \"thickness\": 10}]",
+  "encoded_puzzle": "sclN4SwJgXA5AZg7ANgQZgEICsBMAjAMlAGgGMBnCAVgAZiBTCAbXoOYF0CnX3mC2Oe2ATnUb1qlXtQCMvSQXHtZ03qIKYJBZDNVbNyzHN77p7ZAZMEl7evrXt9m87fqndbIgEMGwAG7QALiB+ADZ0AAQACkEArn4A9qEAFAAiAO7uAjARQe4AdjR+AJRQAL4EPtDuMQAWsQIQoahBsdgAXiVlvlACUSFkoQBytQC27kGhJFFgsQDWUaHdvaHuAA7LQQCe9ZHuRDShflV7YCAA5oEkoZL78QAsBKGxObuhNDtV9yA5L940AuvzsRS9yIsWiQy+uTAoWwsQAHgA6AA6iJyyJyACUaGdHqEAMpRIahXCfGh9JKnc5LJo5E5LaHRPZBEmhKruH5LL40ACOUVG4wJA1CKUCVU+LzeoUwsMw0Lh+0OoSZeVCy3cJBIpPlAliUROVXhoXJMBgvxoOT8ipJFxG/1Z7OOxtN5tC3lGUU1MFqA3h7XKUBIoJiIEe9UwyEkNxukmQYZumEkkkwN2QJTYQS8KWWDFE8PIclzMlzFgLdiLlALbggyBuqFQAFEEAQDhBJJRSsBM9ny3nMCX6JIi73yIYiwPh5Xq7WG02qi222VO4wxxo+0PVH3kKOK8QqzX643m63imxvJB6KBIFAABoAMXC7hoAAkAIokE6PkiEZZRbBMkiHMAAEE/GgTBKDDABaSgEAgpMABVJAATirSgIEoG4AC1CBAqA4IVG81T8UkLVxUEfkISBMAADkkOBj2KIA==="
+}

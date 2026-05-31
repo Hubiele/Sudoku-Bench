@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_MichaelLefkowitz_8ab8aeb4b8e4966f12df37b3cf195e14",
+  "sudokupad_url": "https://sudokupad.app/hx8auhnjpp",
+  "author": "Michael Lefkowitz",
+  "title": "Cross Product",
+  "rules": "\"Normal 6x6 Sudoku rules apply.\\nEvery indicated diagonal has the same product.\"",
+  "initial_board": "....................................",
+  "solution": "143562625134452316316245261453534621",
+  "rows": 6,
+  "cols": 6,
+  "visual_elements": "[{\"type\": \"diagonal arrow\", \"coords\": [\"r0c4\"], \"direction\": \"lower right\", \"color_name\": \"black\", \"color_hex\": \"#000000\", \"thickness\": 2.56}, {\"type\": \"diagonal arrow\", \"coords\": [\"r2c0\"], \"direction\": \"lower right\", \"color_name\": \"black\", \"color_hex\": \"#000000\", \"thickness\": 2.56}, {\"type\": \"diagonal arrow\", \"coords\": [\"r6c0\"], \"direction\": \"upper right\", \"color_name\": \"black\", \"color_hex\": \"#000000\", \"thickness\": 2.56}, {\"type\": \"diagonal arrow\", \"coords\": [\"r7c1\"], \"direction\": \"upper right\", \"color_name\": \"black\", \"color_hex\": \"#000000\", \"thickness\": 2.56}]",
+  "encoded_puzzle": "sclN4IglgJiBcIM4A84FsD6BZMBjAFgQwFMAbAGQIDMBrAewHcwAXAL1QA48AjdgjgFi4K8AnADYR5AIwAmCOQDMAdg5yskoQFYCE3iAA0IZAQZ4IeYzFBxqAVwBOWAjBABlaxGqVrAAnR5KBWy8ANykABileADoJCWiRAFopcnUpEV4JPRAGRiJHWABhW2o4OC8ABSKIaywGTLxrBhxqWydMXEIiLzIqOkYmTNtrXLgnADlm5DxOkQQRL1d3Ty9B4a88AAd1ogBPSIAdADsAUSCA7a8wA4hsMwIIL2u8AHNqA6mvfFLGgi84PEMvOtKtUGJFMlYiA0wK8nNo5OoRKkpOoJHJeLwUnIJCIsYiMaltOp4WjERkAL76LDPAgjaAAbQAupTiERaXS6cAKZzdNzeVyyUyOfyecK+YK+SLJWLdEKpaL+eL5XKRYrlRLOQymSBbAQntCDmz2aFdKFBcaJGbdFJBRITTbdBaZbbrYK6ca5JbeJb1PaPU7dF7/T7XVI7TLQ466aHrTK5GG6XHI3GXTKo7o/WnA2mfbH04K41m48HU7x46XI6WY3T1PGa5Gayn2aWM6Ws6Wc9W8zKa1ma8GtXhbEVaGzQLQ8NsytRLgxDfFQpFUiJ05EFGjBfPIqERKwV0I5CmQDgCCYyAcno0YAuJLuQFhqERmk4AMShN/vzKNbCUA402lSSIES5EBx0nacDlnGB2ViNdS03JcbUifdQ03bdWE1fRj1PAhz0vaBr1ve9HxaWBX3fN9Pxwb9fxKGAAKAnkQInKcZ0NdRFzEXR4LEQV2LQriFzQjCjxPCAzwvHAr2iQiHyfUjyIo/QvywH8/zowCRGA0CWIgw0RA45cF1gwV9P4hdkOErCxJwiSpJvSlZJIkAyPIyjqLU6B6M0hkySAA="
+}

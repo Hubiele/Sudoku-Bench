@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "39GDNpTT9J",
+  "sudokupad_url": "https://sudokupad.app/39GDNpTT9J",
+  "author": "Logan Wall",
+  "title": "VanDerWaal",
+  "rules": "\"Normal 6x6 sudoku rules apply. ie place the digits 1-6 once each into each row, column and 2x3 region. Digits on pink ('renban') lines must form a set of consecutive, non-repeating digits.\"",
+  "initial_board": "..............................6.....",
+  "solution": "354621216543543162162435435216621354",
+  "rows": 6,
+  "cols": 6,
+  "visual_elements": "[{\"type\": \"lines\", \"coords\": [\"r2c4\", \"r2c3\", \"r3c3\", \"r3c2\"], \"color_name\": \"mediumorchid\", \"color_hex\": \"#D23BE7\", \"thickness\": 8}, {\"type\": \"lines\", \"coords\": [\"r2c2\", \"r2c1\", \"r1c1\"], \"color_name\": \"mediumorchid\", \"color_hex\": \"#D23BE7\", \"thickness\": 8}, {\"type\": \"lines\", \"coords\": [\"r5c2\", \"r4c3\", \"r3c4\", \"r2c5\"], \"color_name\": \"mediumorchid\", \"color_hex\": \"#D23BE7\", \"thickness\": 8}, {\"type\": \"lines\", \"coords\": [\"r1c5\", \"r1c6\", \"r2c6\"], \"color_name\": \"mediumorchid\", \"color_hex\": \"#D23BE7\", \"thickness\": 8}, {\"type\": \"lines\", \"coords\": [\"r4c5\", \"r4c4\", \"r5c4\", \"r5c3\"], \"color_name\": \"mediumorchid\", \"color_hex\": \"#D23BE7\", \"thickness\": 8}, {\"type\": \"lines\", \"coords\": [\"r6c5\", \"r6c6\", \"r5c6\"], \"color_name\": \"mediumorchid\", \"color_hex\": \"#D23BE7\", \"thickness\": 8}]",
+  "encoded_puzzle": "sclN4SwJgXA5AzAnAcQCIDkAOAVDcBSUA0AxgM4QCsADEQKYQDad+TTAuvo8/mx8951+37dgANwgA2AL5C2AJ1oM6VCtyoBGVfgBM3NfhXs9Gw9pbcl+GJoAsmsrssPbJ++a37u743Xc72MD398bwCdN0d2d2cffHsgqyDogNd2OmtAtODudL86Mgz873yw1PSEzOj0uLyImuj81zZCAEN6UWgAFxAOgBtaAAIANWaAOyRqWQB1ZuaeqGl2qGaAVw6ACwB7WQh+gBkNgHNR/umeuYWxKFllvtJ+lC2AW1n+8QAPcX7iZbANgGtlv1rrd+s00GgegBPAB0/RA1H6EOahAR6wRYBAB26xH6agAtJ8NiMUf1qMi1nCRh0NqTyUCNgB3fD9QgbHrLR4jUEjMD9LRvGBA6hYomwpCY7H9ImIkAjP79AAUAB0rtQRgAjUYqgCU/R6suoOMey2IHX6ADMnqCvtQzRtzSyicRqIRViARNRmSMiXj5GgyV0Rgd+hisR1iND5vhFsQ2W6iTsYGRrOItGo0+Jk0nrDA1Km81oc1myBn89n5mwem0GWh6HQ1ND8jBG7pG9oW5E21oOz42w2UoQIEgtDAAEIAUQA7Ph1hAABwLGt1/vBHsrig9jf5LdmIhDkcT6ezhfRpcMax9nvN4o97tNtdti8D/djqcztbzxe1hhb/BP1RtmQD4NC2TQvoe76fqe350Nef5Xm217ZIhPZPu2z7Dq+R4fiewBnnkj49kBIHVGhxG7oOmEQcekhsCIkB0KAkBQAAWpCABKbwANJqDguxoAAyhQBBoMs6r6sQazUGAACCHTQFoFAjniFAwHiMAUBgahwBAGkQKpLEEPJUAYFJ/QALIbKa/QAGLNMQhCys0gbBjAnwCQAjsszTyMQBCQGoc5zmQtGSEAA"
+}

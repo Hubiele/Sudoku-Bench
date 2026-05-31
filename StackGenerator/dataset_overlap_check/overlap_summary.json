@@ -1,0 +1,36 @@
+{
+  "train_stacks_path": "/home/daniel/Documents/Skole/Masteroppgave/Kode/new_new_SudokuBench/StackGenerator/stack_dataset/train_stacks.npy",
+  "test_stacks_path": "/home/daniel/Documents/Skole/Masteroppgave/Kode/new_new_SudokuBench/StackGenerator/stack_test/test_stacks.npy",
+  "train_shape": [
+    837234,
+    9,
+    9,
+    152
+  ],
+  "test_shape": [
+    100,
+    9,
+    9,
+    152
+  ],
+  "compare_mode": "input",
+  "crop_to_active_board": true,
+  "round_decimals": 6,
+  "channel_constants": {
+    "NUMBER_CHANNELS": 9,
+    "GIVEN_MASK_CHANNELS": 1,
+    "BOARD_MASK_CHANNELS": 1,
+    "RULE_CHANNELS": 36,
+    "HIDDEN_CHANNELS": 96,
+    "TARGET_CHANNELS": 9,
+    "source": "NCA.NCA_model"
+  },
+  "matches": {
+    "input": {
+      "num_matches": 0,
+      "unique_test_matches": [],
+      "unique_train_matches_count": 0,
+      "csv": "/home/daniel/Documents/Skole/Masteroppgave/Kode/new_new_SudokuBench/StackGenerator/dataset_overlap_check/overlap_input.csv"
+    }
+  }
+}

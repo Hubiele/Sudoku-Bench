@@ -1,0 +1,22 @@
+Learning-rate/configuration search summary
+================================================
+
+Number of parsed runs: 16
+
+Top 8 by best validation loss:
+
+#1: warmup_short | best=0.466715 at step 99600 | final=0.474083 | lr=0.0003 | init=0.0001 | end=1e-05 | warmup=1000 | clip=1.0
+#2: wd_high | best=0.469899 at step 99500 | final=0.476736 | lr=0.0003 | init=0.0001 | end=1e-05 | warmup=10000 | clip=1.0
+#3: clip_tighter | best=0.470001 at step 93700 | final=0.472489 | lr=0.0003 | init=0.0001 | end=1e-05 | warmup=10000 | clip=0.5
+#4: warmup_medium | best=0.471750 at step 97000 | final=0.478294 | lr=0.0003 | init=0.0001 | end=1e-05 | warmup=5000 | clip=1.0
+#5: lr_mid_low | best=0.472005 at step 98900 | final=0.474686 | lr=0.0002 | init=5e-05 | end=1e-06 | warmup=5000 | clip=1.0
+#6: end_low | best=0.472716 at step 99600 | final=0.473066 | lr=0.0003 | init=0.0001 | end=1e-06 | warmup=10000 | clip=1.0
+#7: clip_looser | best=0.472939 at step 96000 | final=0.478676 | lr=0.0003 | init=0.0001 | end=1e-05 | warmup=10000 | clip=2.0
+#8: wd_none | best=0.472990 at step 97800 | final=0.476191 | lr=0.0003 | init=0.0001 | end=1e-05 | warmup=10000 | clip=1.0
+
+Interpretation notes:
+- best_val_loss is the lowest raw validation loss observed in the log.
+- best_smoothed_val_loss is computed from the moving average curve.
+- final_val_loss is the validation loss at the last logged step.
+- The best raw loss can be affected by noise, so inspect the curves as well as the ranking.
+- If a run has lower loss but worse final solve rate, prioritize the metric that matches the final evaluation objective.

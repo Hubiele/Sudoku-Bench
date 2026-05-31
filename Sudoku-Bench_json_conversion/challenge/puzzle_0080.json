@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "fpuzzle2aa567b91ab54585d756858c655758fb",
+  "sudokupad_url": "https://sudokupad.app/tv1qeyjnzs",
+  "author": "gdc",
+  "title": "Knights of the QS Example",
+  "rules": "\"Normal Sudoku rules apply\\nDigits separated by a knight's move may not repeat\\nDigits along a thermo strictly increase from the bulb\"",
+  "initial_board": "................",
+  "solution": "2143341243211234",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[{\"type\": \"lines\", \"coords\": [\"r4c2\", \"r3c2\", \"r2c2\"], \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"thickness\": 21}, {\"type\": \"lines\", \"coords\": [\"r2c3\", \"r3c3\"], \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"thickness\": 21}, {\"type\": \"underlays\", \"coords\": [\"r4c2\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"border_color_name\": \"lightgray\", \"border_color_hex\": \"#CFCFCF\", \"size\": \"large\", \"text\": \"\", \"width\": 0.85, \"height\": 0.85}, {\"type\": \"underlays\", \"coords\": [\"r2c3\"], \"loc\": \"cell\", \"shape\": \"circle\", \"color_name\": \"lightgray\", \"color_hex\": \"#CFCFCF\", \"border_color_name\": \"lightgray\", \"border_color_hex\": \"#CFCFCF\", \"size\": \"large\", \"text\": \"\", \"width\": 0.85, \"height\": 0.85}]",
+  "encoded_puzzle": "fpuzN4IgzglgXgpiBcAWANCALhNAbO8QGkA7CAcwAs0wACAewDMq0yYqBFAZSoFEAPAQwC2ABxwhUfAK5MaAJwQgSAEwDGYkDIk4wMNPIBysgXyxV2ExTQDWEqhq1U+QkQE8AOoQAipTNW1C+MnxoMIpUAEbODlSWxORoAOTUAjQAbixGkYQ0aLYwQjBB7l4kPg5YNIQkUUwwMslUYGgyEMrYkRCEyjIF2lR0MjQCjMzhmmFqJM2KCADaM6AlaYQACjCdEFgAsgGWYAiEmlgAvsgLEEur61s7e/AHWMenCudrl8ob2zK7+4cnZxdrd7XL63e7HAC6yHmzwBV0+3zuvyei1egI+Nx+Dz+MNRcIxiKxyJeKzRwIRYKOkOhKJJeJBmMe/1xQPhoKRTNpLPxFKJsK59IJEKhHLe6IFPJFpNZDOxNNFZLZhMldPJv3BkPQzDqgx0tVmoCwHRgtzmIAASogAMIAJjUZoAzDa7danersYbCMbZjNzS77XbHf63RrFBAwHwwjhFOUSqp4DMNU0JDBlHxCKHFEFjTQhBgKiaNWAaFgpBAKrMQLbUABGNSINT+1CNkD1mtqKsthvttS1tuoDvN+vgo5AA="
+}

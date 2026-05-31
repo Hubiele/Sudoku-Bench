@@ -1,0 +1,13 @@
+{
+  "puzzle_id": "sxsm_yanggang_d30f349cab7611471c67d16e617d57e4",
+  "sudokupad_url": "https://sudokupad.app/tqjqic2cma",
+  "author": "yanggang",
+  "title": "Mean Baby Snake",
+  "rules": "\"Normal 4x4 sudoku rules apply.\\n\\nDraw a 1-cell-wide snake of orthogonally connected cells in the grid. The snake starts in the top-left cell, visits every 2x2 box at least once, and does not branch nor touch itself orthogonally.\\n\\nA cell is 'friendly' if its digit matches its row, column, or box number. The snake consists of all cells which are not friendly and no others.\"",
+  "initial_board": "................",
+  "solution": "2143432134121234",
+  "rows": 4,
+  "cols": 4,
+  "visual_elements": "[]",
+  "encoded_puzzle": "sclN4IglgJiBcIM4A84FsD6BPAhgOwOa511QgGYAGAMxIBYBOAY0wCMB2ANgEYPqWP62WEDmwCmnQQFYWI6iAA0IZCIAumCJlUxQcAPYBXAE70RMEAGU9EHQGs9AAgCymayIN2AbgCYyn6gDoyNj8OMgBaJg5MERIADhMFZTBlABsTWAcRHDsAIWZ0OzNsZ3iQTD1lAAsdA1MsPAI8eRADPVS4UwA5auRMZLtqBGo7OEsbexa2u0wAB2nk9D8AHWxlgBEDTAB3KbsOUONk5NDNyBFhopc7HQorg0qdXB0iw/z6J+wRemURCDsD5LgdjA2DslTOuAMkD8dgAKhUznALgjVHdAcDQfDQTppqFUhRlH8RIc5B4wHAkoCRO5XPlPAhPHYmDoEFMCalMHACU9jCScL8rCJAdgdASmBtsPQKnZhW5lPpJUDlHAiTdqvdHs95ksVtgAIKEw5AwEAcgokJE2Ag82NQJuFLsEDAuCSdh6yklgsVgIMOk2JLeyT0yGwJOqjOZ0qDTFc0LhCKRfye5M5gOuU0N/0BmwqYAVmAMZ2FBLNYAtVvyfOlOiuYIMcD8TV0gcST1Mnm4NBI7ZoHHbnhoIAAvgpGLhBTAANoAXRHROSZjAAC80hIyLPDu1oBOJ8Bh7u5PvdzOd3vTwfB8fD2ej3IT+f70eZ80RM6k5Pt2uyMe1xxjxw5F+t7/r+x4TmunjfnIJB/nIEFAVBU6gZ4AHHshv63iQKEYXIIG3hOyFwfhCHYYRmHQYhg5AA=="
+}
