@@ -19,7 +19,7 @@ The code is not packaged as a general Python library. Most scripts are meant to 
 The repository is organized into several folders. The main source files are listed below. Generated data files, logs, plots, checkpoints, and JSON datasets are not listed in full.
 
 ```text
-new_new_SudokuBench/
+SudokuBench/
 ├── NCA/
 │   ├── NCA_model.py
 │   ├── TEST_NCA_model.py
